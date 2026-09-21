@@ -45,7 +45,7 @@
         Piercing: 0.8
         Cold: 0.4
         Holy: 0.2
-        Shadow: 0.3
+        Soul: 0.3
         Asphyxiation: 0.4
 
 - type: entity # So chameleon clothes can select the folded sprite
@@ -88,7 +88,7 @@
         Piercing: 0.8
         Cold: 0.4
         Holy: 0.2
-        Shadow: 0.3
+        Soul: 0.3
         Asphyxiation: 0.4
 
 - type: entity # So chameleon clothes can select the folded sprite

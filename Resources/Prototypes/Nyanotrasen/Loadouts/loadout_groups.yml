@@ -106,6 +106,7 @@
   - ClothingBackpackDuffelMantis
   - ClothingBackpackSatchelMantis
   - ClothingBackpackSatchelMantisPurse
+  - ClothingBackpackMessengerMantis
 
 - type: loadoutGroup
   id: MantisBelt

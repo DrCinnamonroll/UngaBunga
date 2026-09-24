@@ -28,7 +28,7 @@
 ## Forensic Mantis
 - type: loadoutGroup
   id: MantisHead
-  parent: [FloofHats] # floofstation
+  parent: [FloofHats, AssistantHead] # floofstation
   name: loadout-group-mantis-head
   minLimit: 0
   loadouts:

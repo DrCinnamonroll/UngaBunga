@@ -11,3 +11,12 @@
   - type: Sprite
     sprite: _Floof/Objects/Misc/fuzzy_cuffs.rsi
     state: handcuff
+
+- type: entity
+  name: play cuffs
+  description: Used to detain "criminals".
+  id: PlayHandcuffs
+  parent: Handcuffs
+  components:
+  - type: Handcuff
+    breakoutTime: 3
